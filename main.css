@@ -1,0 +1,19 @@
+.mynerve-regular {
+    font-family: "Mynerve", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-image: url('/Imagens/Items/body.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0; 
+}
+
+#logo {
+    width: 400px;
+    height: 400px;
+}
